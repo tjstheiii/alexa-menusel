@@ -1,0 +1,12 @@
+probably redo this off the other model (nodejs city guide)
+
+getTopFive restaraunts
+giveMe {x} random restaraunts within {y} miles
+giveMe {x} random {type} restaraunts within {y} miles
+find {x} random 
+
+
+intents:
+getTopFive
+giveMe
+find
